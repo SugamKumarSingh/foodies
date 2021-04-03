@@ -3422,6 +3422,10 @@
 			display: none;
 		}
 
+		#header .menuBar span {
+			display: inline-block;
+		}
+
 		#header > .logo {
 			display: inline-block;
 			height: inherit;
